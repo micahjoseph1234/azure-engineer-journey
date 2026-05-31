@@ -1,2 +1,21 @@
-# azure-engineer-journey
-Documenting my journey to becoming an Azure Cloud Engineer through hands-on labs, real-world projects, AZ-104 preparation, networking, storage, security, monitoring, AKS, automation, and DevOps.
+#  Azure-engineer-journey
+Building cloud engineering skills through 100+ Azure labs, AZ-104 preparation, infrastructure projects, networking, security, storage, monitoring, AKS, automation, and DevOps practices.
+
+# Topics :
+
+azure
+az-104
+cloud-engineering
+azure-administrator
+devops
+kubernetes
+aks
+networking
+cloud
+iac
+bicep
+terraform
+azure-sql
+monitoring
+storage-account
+
